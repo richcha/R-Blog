@@ -16,3 +16,7 @@ A simple typecho theme.
 ###来我的Blog反馈
 
 > http://rich.ga/
+
+###让这个主题更完美
+
+> 为了让这个主题做的更好，如果你有兴趣，可以Fork本项目后进行修改后向我Pull Requests，我审核后会Merge到这里。谢谢！
